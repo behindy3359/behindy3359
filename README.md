@@ -1,6 +1,6 @@
 <div align="center">
 
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Welcome%20to%20behindy's%20github!!&height=150&fontSize=60) <!--  desc 추가 >>> &desc=Only%20Use%20Text&descAlignY=75&descAlign=60-->
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Here%20is%20behindy's%20github!!&height=150&fontSize=60) <!--  desc 추가 >>> &desc=Only%20Use%20Text&descAlignY=75&descAlign=60-->
 </div>
 
 
