@@ -4,7 +4,7 @@
 </div>
 
 
- behnindy - 포트폴리오 : <a href="https://marshy-parrotfish-e92.notion.site/12325139d208811a8fb2f66db6a5d8fa"> Notion 포트폴리오 </a>
+ behindy - 포트폴리오 : <a href="https://marshy-parrotfish-e92.notion.site/12325139d208811a8fb2f66db6a5d8fa"> Notion 포트폴리오 </a>
 <hr/>
 
 ### 🛠 &nbsp;Technical Skills
