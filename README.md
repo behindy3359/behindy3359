@@ -3,14 +3,6 @@
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Welcome%20to%20behindy's%20github!!&height=150&fontSize=60) <!--  desc 추가 >>> &desc=Only%20Use%20Text&descAlignY=75&descAlign=60-->
 </div>
 
-<div align="center">
-  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=behindy0311)](https://velog.io/@behindy0311)
-<a href="[https://snowy-aunt-2ed.notion.site/1036edf9ca9280ae924ed47cca480707?pvs=74](https://marshy-parrotfish-e92.notion.site/10b25139d20880ff8776ea42942f3b1f?pvs=74)" target="_blank">
-<img src="https://img.shields.io/badge/Portpolio-000000?style=flat&logo=notion&logoColor=white"/> 
-</a>
-</div>
-
 <!--
 **behindy3359/behindy3359** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -45,10 +37,10 @@ Here are some ideas to get you started:
 ### 💻 &nbsp;GitHub Analytics
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=behindy3359&show_icons=true&theme=algolia&rank_icon=github" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=behindy3359&layout=compact&langs_count=8&card_width=320&theme=algolia" />
-</a>
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=behindy3359&show_icons=true&theme=algolia&rank_icon=github" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=behindy3359&layout=compact&langs_count=8&card_width=320&theme=algolia" />
+  </a>
 </div>
 
