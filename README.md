@@ -22,10 +22,16 @@ Here are some ideas to get you started:
 </div>
 
 
+## My Activity
 
+### ✨ &nbsp;blog - velog
+<div align="center">
+  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=behindy0311&tag=Lieblings)](https://github.com/behindy0311/velog-readme-stats)[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=behindy0311&tag=Card_Recommendation)](https://github.com/behindy0311/velog-readme-stats)
+
+</div>
 
 ### 💻 &nbsp;GitHub Analytics
-
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=behindy3359&show_icons=true&theme=algolia&rank_icon=github" />
