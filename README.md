@@ -18,7 +18,7 @@
 ### ✨ &nbsp;Latest blog - velog
 <div align="center">
  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=behindy0311)](https://velog.io/@behindy0311/240923)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=behindy0311)](https://velog.io/@behindy0311/posts)
 </div>
 
 ### 💻 &nbsp;GitHub Analytics
