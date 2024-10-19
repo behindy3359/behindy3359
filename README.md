@@ -18,10 +18,7 @@
 ### ✨ &nbsp;Latest blog - velog
 <div align="center">
  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=behindy0311)](https://github.com/eungyeole/velog-readme-stats)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole)](https://github.com/behindy0311/velog-readme-stats)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=behindy0311)](https://github.com/behindy0311/velog-readme-stats)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=behindy0311)]([https://github.com/eungyeole/velog-readme-stats](https://velog.io/@behindy0311/240923))
 </div>
 
 ### 💻 &nbsp;GitHub Analytics
