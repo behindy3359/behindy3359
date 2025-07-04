@@ -23,9 +23,3 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=behindy3359&layout=compact&langs_count=8&card_width=320&theme=algolia" />
   </a>
 </div>
-
-### ✨ &nbsp;Latest blog - velog
-<div align="center">
- 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=behindy0311)](https://velog.io/@behindy0311/posts)
-</div>
