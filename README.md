@@ -10,9 +10,10 @@
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">  <img src="https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%3178C6">  <img src="https://img.shields.io/badge/Java-6DB33F?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">   <br/>  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=white">  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">  <br/>  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">  <img src="https://img.shields.io/badge/amazonwebservices-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
 </div>
 
+
+<!--
+
 ## My Activity
-
-
 
 ### 💻 &nbsp;GitHub Analytics
 <div align="center">
@@ -23,3 +24,5 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=behindy3359&layout=compact&langs_count=8&card_width=320&theme=algolia" />
   </a>
 </div>
+
+-->
