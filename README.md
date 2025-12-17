@@ -2,6 +2,8 @@
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=behindy's%20Github%20profile!!&height=150&fontSize=60)
 
+</div>
+
 <hr/>
 
 ## &nbsp;Technical Skills
